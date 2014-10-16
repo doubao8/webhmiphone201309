@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:hollysys="http://www.hollysys.com/namespaces/hollysys" width="1452" height="873">
+  <defs id="defs">
+    <filter id="dropShadow">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur stdDeviation="3" result="offset-blur"/>
+      <feFlood flood-color="black" flood-opacity="0.75" result="color"/>
+      <feComposite operator="in" in="color" in2="offset-blur" result="shadow"/>
+      <feComposite operator="over" in="SourceGraphic" in2="shadow"/>
+    </filter>
+  </defs>
+  <hollysys:allAnimate id="allAnimateId">
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd45_ElId_140">
+      <hollysys:expression><![CDATA[$W:wd45$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd45_ElId_140">
+      <hollysys:expression><![CDATA[$W:wd45$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd50_ElId_141">
+      <hollysys:expression><![CDATA[$W:wd50$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd50_ElId_141">
+      <hollysys:expression><![CDATA[$W:wd50$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd55_ElId_142">
+      <hollysys:expression><![CDATA[$W:wd55$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd55_ElId_142">
+      <hollysys:expression><![CDATA[$W:wd55$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd60_ElId_143">
+      <hollysys:expression><![CDATA[$W:wd60$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd60_ElId_143">
+      <hollysys:expression><![CDATA[$W:wd60$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd25_ElId_145">
+      <hollysys:expression><![CDATA[$W:wd25$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd25_ElId_145">
+      <hollysys:expression><![CDATA[$W:wd25$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd30_ElId_146">
+      <hollysys:expression><![CDATA[$W:wd30$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd30_ElId_146">
+      <hollysys:expression><![CDATA[$W:wd30$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd35_ElId_147">
+      <hollysys:expression><![CDATA[$W:wd35$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd35_ElId_147">
+      <hollysys:expression><![CDATA[$W:wd35$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd40_ElId_148">
+      <hollysys:expression><![CDATA[$W:wd40$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd40_ElId_148">
+      <hollysys:expression><![CDATA[$W:wd40$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd65_ElId_149">
+      <hollysys:expression><![CDATA[$W:wd65$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd65_ElId_149">
+      <hollysys:expression><![CDATA[$W:wd65$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd70_ElId_150">
+      <hollysys:expression><![CDATA[$W:wd70$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd70_ElId_150">
+      <hollysys:expression><![CDATA[$W:wd70$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd75_ElId_151">
+      <hollysys:expression><![CDATA[$W:wd75$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd75_ElId_151">
+      <hollysys:expression><![CDATA[$W:wd75$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd80_ElId_152">
+      <hollysys:expression><![CDATA[$W:wd80$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd80_ElId_152">
+      <hollysys:expression><![CDATA[$W:wd80$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd85_ElId_153">
+      <hollysys:expression><![CDATA[$W:wd85$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd85_ElId_153">
+      <hollysys:expression><![CDATA[$W:wd85$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd90_ElId_154">
+      <hollysys:expression><![CDATA[$W:wd90$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd90_ElId_154">
+      <hollysys:expression><![CDATA[$W:wd90$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd95_ElId_155">
+      <hollysys:expression><![CDATA[$W:wd95$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd95_ElId_155">
+      <hollysys:expression><![CDATA[$W:wd95$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd100_ElId_156">
+      <hollysys:expression><![CDATA[$W:wd100$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd100_ElId_156">
+      <hollysys:expression><![CDATA[$W:wd100$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd105_ElId_157">
+      <hollysys:expression><![CDATA[$W:wd105$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd105_ElId_157">
+      <hollysys:expression><![CDATA[$W:wd105$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd110_ElId_158">
+      <hollysys:expression><![CDATA[$W:wd110$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd110_ElId_158">
+      <hollysys:expression><![CDATA[$W:wd110$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd115_ElId_159">
+      <hollysys:expression><![CDATA[$W:wd115$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd115_ElId_159">
+      <hollysys:expression><![CDATA[$W:wd115$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd120_ElId_160">
+      <hollysys:expression><![CDATA[$W:wd120$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd120_ElId_160">
+      <hollysys:expression><![CDATA[$W:wd120$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd125_ElId_161">
+      <hollysys:expression><![CDATA[$W:wd125$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd125_ElId_161">
+      <hollysys:expression><![CDATA[$W:wd125$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd130_ElId_162">
+      <hollysys:expression><![CDATA[$W:wd130$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd130_ElId_162">
+      <hollysys:expression><![CDATA[$W:wd130$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd135_ElId_163">
+      <hollysys:expression><![CDATA[$W:wd135$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd135_ElId_163">
+      <hollysys:expression><![CDATA[$W:wd135$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd140_ElId_164">
+      <hollysys:expression><![CDATA[$W:wd140$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd140_ElId_164">
+      <hollysys:expression><![CDATA[$W:wd140$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd145_ElId_165">
+      <hollysys:expression><![CDATA[$W:wd145$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd145_ElId_165">
+      <hollysys:expression><![CDATA[$W:wd145$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd150_ElId_166">
+      <hollysys:expression><![CDATA[$W:wd150$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd150_ElId_166">
+      <hollysys:expression><![CDATA[$W:wd150$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd155_ElId_167">
+      <hollysys:expression><![CDATA[$W:wd155$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd155_ElId_167">
+      <hollysys:expression><![CDATA[$W:wd155$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd160_ElId_168">
+      <hollysys:expression><![CDATA[$W:wd160$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd160_ElId_168">
+      <hollysys:expression><![CDATA[$W:wd160$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd165_ElId_169">
+      <hollysys:expression><![CDATA[$W:wd165$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd165_ElId_169">
+      <hollysys:expression><![CDATA[$W:wd165$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd170_ElId_170">
+      <hollysys:expression><![CDATA[$W:wd170$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd170_ElId_170">
+      <hollysys:expression><![CDATA[$W:wd170$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd175_ElId_171">
+      <hollysys:expression><![CDATA[$W:wd175$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd175_ElId_171">
+      <hollysys:expression><![CDATA[$W:wd175$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd180_ElId_172">
+      <hollysys:expression><![CDATA[$W:wd180$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd180_ElId_172">
+      <hollysys:expression><![CDATA[$W:wd180$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd185_ElId_173">
+      <hollysys:expression><![CDATA[$W:wd185$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd185_ElId_173">
+      <hollysys:expression><![CDATA[$W:wd185$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd190_ElId_174">
+      <hollysys:expression><![CDATA[$W:wd190$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd190_ElId_174">
+      <hollysys:expression><![CDATA[$W:wd190$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd195_ElId_175">
+      <hollysys:expression><![CDATA[$W:wd195$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd195_ElId_175">
+      <hollysys:expression><![CDATA[$W:wd195$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd200_ElId_176">
+      <hollysys:expression><![CDATA[$W:wd200$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd200_ElId_176">
+      <hollysys:expression><![CDATA[$W:wd200$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd205_ElId_177">
+      <hollysys:expression><![CDATA[$W:wd205$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd205_ElId_177">
+      <hollysys:expression><![CDATA[$W:wd205$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd210_ElId_178">
+      <hollysys:expression><![CDATA[$W:wd210$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd210_ElId_178">
+      <hollysys:expression><![CDATA[$W:wd210$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd215_ElId_179">
+      <hollysys:expression><![CDATA[$W:wd215$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd215_ElId_179">
+      <hollysys:expression><![CDATA[$W:wd215$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd220_ElId_180">
+      <hollysys:expression><![CDATA[$W:wd220$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd220_ElId_180">
+      <hollysys:expression><![CDATA[$W:wd220$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd225_ElId_181">
+      <hollysys:expression><![CDATA[$W:wd225$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd225_ElId_181">
+      <hollysys:expression><![CDATA[$W:wd225$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd230_ElId_182">
+      <hollysys:expression><![CDATA[$W:wd230$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd230_ElId_182">
+      <hollysys:expression><![CDATA[$W:wd230$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd235_ElId_183">
+      <hollysys:expression><![CDATA[$W:wd235$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd235_ElId_183">
+      <hollysys:expression><![CDATA[$W:wd235$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd240_ElId_184">
+      <hollysys:expression><![CDATA[$W:wd240$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd240_ElId_184">
+      <hollysys:expression><![CDATA[$W:wd240$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd245_ElId_185">
+      <hollysys:expression><![CDATA[$W:wd245$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd245_ElId_185">
+      <hollysys:expression><![CDATA[$W:wd245$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd250_ElId_186">
+      <hollysys:expression><![CDATA[$W:wd250$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd250_ElId_186">
+      <hollysys:expression><![CDATA[$W:wd250$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd255_ElId_187">
+      <hollysys:expression><![CDATA[$W:wd255$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd255_ElId_187">
+      <hollysys:expression><![CDATA[$W:wd255$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd260_ElId_188">
+      <hollysys:expression><![CDATA[$W:wd260$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd260_ElId_188">
+      <hollysys:expression><![CDATA[$W:wd260$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd265_ElId_189">
+      <hollysys:expression><![CDATA[$W:wd265$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd265_ElId_189">
+      <hollysys:expression><![CDATA[$W:wd265$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd270_ElId_190">
+      <hollysys:expression><![CDATA[$W:wd270$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd270_ElId_190">
+      <hollysys:expression><![CDATA[$W:wd270$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd275_ElId_191">
+      <hollysys:expression><![CDATA[$W:wd275$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd275_ElId_191">
+      <hollysys:expression><![CDATA[$W:wd275$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd280_ElId_192">
+      <hollysys:expression><![CDATA[$W:wd280$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd280_ElId_192">
+      <hollysys:expression><![CDATA[$W:wd280$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd285_ElId_193">
+      <hollysys:expression><![CDATA[$W:wd285$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd285_ElId_193">
+      <hollysys:expression><![CDATA[$W:wd285$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd290_ElId_194">
+      <hollysys:expression><![CDATA[$W:wd290$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd290_ElId_194">
+      <hollysys:expression><![CDATA[$W:wd290$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd295_ElId_195">
+      <hollysys:expression><![CDATA[$W:wd295$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd295_ElId_195">
+      <hollysys:expression><![CDATA[$W:wd295$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd300_ElId_196">
+      <hollysys:expression><![CDATA[$W:wd300$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd300_ElId_196">
+      <hollysys:expression><![CDATA[$W:wd300$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd305_ElId_197">
+      <hollysys:expression><![CDATA[$W:wd305$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd305_ElId_197">
+      <hollysys:expression><![CDATA[$W:wd305$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd310_ElId_198">
+      <hollysys:expression><![CDATA[$W:wd310$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd310_ElId_198">
+      <hollysys:expression><![CDATA[$W:wd310$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd315_ElId_199">
+      <hollysys:expression><![CDATA[$W:wd315$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd315_ElId_199">
+      <hollysys:expression><![CDATA[$W:wd315$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd320_ElId_200">
+      <hollysys:expression><![CDATA[$W:wd320$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd320_ElId_200">
+      <hollysys:expression><![CDATA[$W:wd320$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd325_ElId_201">
+      <hollysys:expression><![CDATA[$W:wd325$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd325_ElId_201">
+      <hollysys:expression><![CDATA[$W:wd325$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd330_ElId_202">
+      <hollysys:expression><![CDATA[$W:wd330$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd330_ElId_202">
+      <hollysys:expression><![CDATA[$W:wd330$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd335_ElId_203">
+      <hollysys:expression><![CDATA[$W:wd335$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd335_ElId_203">
+      <hollysys:expression><![CDATA[$W:wd335$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd340_ElId_204">
+      <hollysys:expression><![CDATA[$W:wd340$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd340_ElId_204">
+      <hollysys:expression><![CDATA[$W:wd340$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd345_ElId_205">
+      <hollysys:expression><![CDATA[$W:wd345$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd345_ElId_205">
+      <hollysys:expression><![CDATA[$W:wd345$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd350_ElId_206">
+      <hollysys:expression><![CDATA[$W:wd350$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd350_ElId_206">
+      <hollysys:expression><![CDATA[$W:wd350$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd355_ElId_207">
+      <hollysys:expression><![CDATA[$W:wd355$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd355_ElId_207">
+      <hollysys:expression><![CDATA[$W:wd355$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd360_ElId_208">
+      <hollysys:expression><![CDATA[$W:wd360$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd360_ElId_208">
+      <hollysys:expression><![CDATA[$W:wd360$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd365_ElId_209">
+      <hollysys:expression><![CDATA[$W:wd365$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd365_ElId_209">
+      <hollysys:expression><![CDATA[$W:wd365$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd370_ElId_210">
+      <hollysys:expression><![CDATA[$W:wd370$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd370_ElId_210">
+      <hollysys:expression><![CDATA[$W:wd370$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd375_ElId_211">
+      <hollysys:expression><![CDATA[$W:wd375$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd375_ElId_211">
+      <hollysys:expression><![CDATA[$W:wd375$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd380_ElId_212">
+      <hollysys:expression><![CDATA[$W:wd380$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd380_ElId_212">
+      <hollysys:expression><![CDATA[$W:wd380$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd385_ElId_213">
+      <hollysys:expression><![CDATA[$W:wd385$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd385_ElId_213">
+      <hollysys:expression><![CDATA[$W:wd385$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd390_ElId_214">
+      <hollysys:expression><![CDATA[$W:wd390$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd390_ElId_214">
+      <hollysys:expression><![CDATA[$W:wd390$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd395_ElId_215">
+      <hollysys:expression><![CDATA[$W:wd395$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd395_ElId_215">
+      <hollysys:expression><![CDATA[$W:wd395$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd20_ElId_216">
+      <hollysys:expression><![CDATA[$W:wd400$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd20_ElId_216">
+      <hollysys:expression><![CDATA[$W:wd400$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd405_ElId_217">
+      <hollysys:expression><![CDATA[$W:wd405$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd405_ElId_217">
+      <hollysys:expression><![CDATA[$W:wd405$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd410_ElId_218">
+      <hollysys:expression><![CDATA[$W:wd410$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd410_ElId_218">
+      <hollysys:expression><![CDATA[$W:wd410$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd415_ElId_219">
+      <hollysys:expression><![CDATA[$W:wd415$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd415_ElId_219">
+      <hollysys:expression><![CDATA[$W:wd415$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd420_ElId_220">
+      <hollysys:expression><![CDATA[$W:wd420$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd420_ElId_220">
+      <hollysys:expression><![CDATA[$W:wd420$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd425_ElId_221">
+      <hollysys:expression><![CDATA[$W:wd425$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd425_ElId_221">
+      <hollysys:expression><![CDATA[$W:wd425$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd430_ElId_222">
+      <hollysys:expression><![CDATA[$W:wd430$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd430_ElId_222">
+      <hollysys:expression><![CDATA[$W:wd430$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd435_ElId_223">
+      <hollysys:expression><![CDATA[$W:wd435$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd435_ElId_223">
+      <hollysys:expression><![CDATA[$W:wd435$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="Rwd440_ElId_224">
+      <hollysys:expression><![CDATA[$W:wd440$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="Rwd440_ElId_224">
+      <hollysys:expression><![CDATA[$W:wd440$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd445_ElId_225">
+      <hollysys:expression><![CDATA[$W:wd445$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd445_ElId_225">
+      <hollysys:expression><![CDATA[$W:wd445$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd450_ElId_226">
+      <hollysys:expression><![CDATA[$W:wd450$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd450_ElId_226">
+      <hollysys:expression><![CDATA[$W:wd450$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd455_ElId_227">
+      <hollysys:expression><![CDATA[$W:wd455$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd455_ElId_227">
+      <hollysys:expression><![CDATA[$W:wd455$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd460_ElId_228">
+      <hollysys:expression><![CDATA[$W:wd460$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd460_ElId_228">
+      <hollysys:expression><![CDATA[$W:wd460$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd465_ElId_229">
+      <hollysys:expression><![CDATA[$W:wd465$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd465_ElId_229">
+      <hollysys:expression><![CDATA[$W:wd465$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd470_ElId_230">
+      <hollysys:expression><![CDATA[$W:wd470$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd470_ElId_230">
+      <hollysys:expression><![CDATA[$W:wd470$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd475_ElId_231">
+      <hollysys:expression><![CDATA[$W:wd475$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd475_ElId_231">
+      <hollysys:expression><![CDATA[$W:wd475$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd480_ElId_232">
+      <hollysys:expression><![CDATA[$W:wd480$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd480_ElId_232">
+      <hollysys:expression><![CDATA[$W:wd480$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd485_ElId_233">
+      <hollysys:expression><![CDATA[$W:wd485$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd485_ElId_233">
+      <hollysys:expression><![CDATA[$W:wd485$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd490_ElId_234">
+      <hollysys:expression><![CDATA[$W:wd490$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd490_ElId_234">
+      <hollysys:expression><![CDATA[$W:wd490$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd495_ElId_235">
+      <hollysys:expression><![CDATA[$W:wd495$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd495_ElId_235">
+      <hollysys:expression><![CDATA[$W:wd495$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd500_ElId_236">
+      <hollysys:expression><![CDATA[$W:wd500$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd500_ElId_236">
+      <hollysys:expression><![CDATA[$W:wd500$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd505_ElId_237">
+      <hollysys:expression><![CDATA[$W:wd505$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd505_ElId_237">
+      <hollysys:expression><![CDATA[$W:wd505$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd510_ElId_238">
+      <hollysys:expression><![CDATA[$W:wd510$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd510_ElId_238">
+      <hollysys:expression><![CDATA[$W:wd510$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd515_ElId_239">
+      <hollysys:expression><![CDATA[$W:wd515$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd515_ElId_239">
+      <hollysys:expression><![CDATA[$W:wd515$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd520_ElId_240">
+      <hollysys:expression><![CDATA[$W:wd520$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd520_ElId_240">
+      <hollysys:expression><![CDATA[$W:wd520$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd525_ElId_241">
+      <hollysys:expression><![CDATA[$W:wd525$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd525_ElId_241">
+      <hollysys:expression><![CDATA[$W:wd525$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd530_ElId_242">
+      <hollysys:expression><![CDATA[$W:wd530$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd530_ElId_242">
+      <hollysys:expression><![CDATA[$W:wd530$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd535_ElId_243">
+      <hollysys:expression><![CDATA[$W:wd535$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd535_ElId_243">
+      <hollysys:expression><![CDATA[$W:wd535$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd540_ElId_244">
+      <hollysys:expression><![CDATA[$W:wd540$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd540_ElId_244">
+      <hollysys:expression><![CDATA[$W:wd540$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd545_ElId_245">
+      <hollysys:expression><![CDATA[$W:wd545$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd545_ElId_245">
+      <hollysys:expression><![CDATA[$W:wd545$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd550_ElId_246">
+      <hollysys:expression><![CDATA[$W:wd550$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd550_ElId_246">
+      <hollysys:expression><![CDATA[$W:wd550$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd555_ElId_247">
+      <hollysys:expression><![CDATA[$W:wd555$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd555_ElId_247">
+      <hollysys:expression><![CDATA[$W:wd555$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="Rwd560_ElId_248">
+      <hollysys:expression><![CDATA[$W:wd560$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="Rwd560_ElId_248">
+      <hollysys:expression><![CDATA[$W:wd560$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd565_ElId_249">
+      <hollysys:expression><![CDATA[$W:wd565$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd565_ElId_249">
+      <hollysys:expression><![CDATA[$W:wd565$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd570_ElId_250">
+      <hollysys:expression><![CDATA[$W:wd570$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd570_ElId_250">
+      <hollysys:expression><![CDATA[$W:wd570$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd575_ElId_251">
+      <hollysys:expression><![CDATA[$W:wd575$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd575_ElId_251">
+      <hollysys:expression><![CDATA[$W:wd575$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd580_ElId_252">
+      <hollysys:expression><![CDATA[$W:wd580$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd580_ElId_252">
+      <hollysys:expression><![CDATA[$W:wd580$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd585_ElId_253">
+      <hollysys:expression><![CDATA[$W:wd585$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd585_ElId_253">
+      <hollysys:expression><![CDATA[$W:wd585$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd590_ElId_254">
+      <hollysys:expression><![CDATA[$W:wd590$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd590_ElId_254">
+      <hollysys:expression><![CDATA[$W:wd590$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd595_ElId_255">
+      <hollysys:expression><![CDATA[$W:wd595$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd595_ElId_255">
+      <hollysys:expression><![CDATA[$W:wd595$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd600_ElId_256">
+      <hollysys:expression><![CDATA[$W:wd600$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd600_ElId_256">
+      <hollysys:expression><![CDATA[$W:wd600$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd605_ElId_257">
+      <hollysys:expression><![CDATA[$W:wd605$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd605_ElId_257">
+      <hollysys:expression><![CDATA[$W:wd605$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd610_ElId_258">
+      <hollysys:expression><![CDATA[$W:wd610$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd610_ElId_258">
+      <hollysys:expression><![CDATA[$W:wd610$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd615_ElId_259">
+      <hollysys:expression><![CDATA[$W:wd615$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd615_ElId_259">
+      <hollysys:expression><![CDATA[$W:wd615$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="Color-BK" hollysys:forGraphId="wd620_ElId_260">
+      <hollysys:expression><![CDATA[$W:wd620$]]></hollysys:expression>
+      <hollysys:param>2;1;(#0080ff,1,50);</hollysys:param>
+    </hollysys:animate>
+    <hollysys:animate hollysys:name="VerticalZoom" hollysys:forGraphId="wd620_ElId_260">
+      <hollysys:expression><![CDATA[$W:wd620$]]></hollysys:expression>
+      <hollysys:param>1;0.000000;50.000000;0;0;100;22;0</hollysys:param>
+    </hollysys:animate>
+  </hollysys:allAnimate>
+  <hollysys:allInteract id="allInteractId"/>
+  <hollysys:allVarAndPoint id="allVarId">
+    <hollysys:var hollysys:varName="wd610" hollysys:varContent="610m位置" hollysys:varLink="1117:WDXT002AI610.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd185" hollysys:varContent="185m位置" hollysys:varLink="1117:WDXT002AI185.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd190" hollysys:varContent="190m位置" hollysys:varLink="1117:WDXT002AI190.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd165" hollysys:varContent="165m位置" hollysys:varLink="1117:WDXT002AI165.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd395" hollysys:varContent="395m位置" hollysys:varLink="1117:WDXT002AI395.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd170" hollysys:varContent="170m位置" hollysys:varLink="1117:WDXT002AI170.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd85" hollysys:varContent="85m位置" hollysys:varLink="1117:WDXT002AI085.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd145" hollysys:varContent="145m位置" hollysys:varLink="1117:WDXT002AI145.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd375" hollysys:varContent="375m位置" hollysys:varLink="1117:WDXT002AI375.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd90" hollysys:varContent="90m位置" hollysys:varLink="1117:WDXT002AI090.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd150" hollysys:varContent="150m位置" hollysys:varLink="1117:WDXT002AI150.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd380" hollysys:varContent="380m位置" hollysys:varLink="1117:WDXT002AI380.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd585" hollysys:varContent="585m位置" hollysys:varLink="1117:WDXT002AI585.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd65" hollysys:varContent="65m位置" hollysys:varLink="1117:WDXT002AI065.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd125" hollysys:varContent="125m位置" hollysys:varLink="1117:WDXT002AI125.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd355" hollysys:varContent="355m位置" hollysys:varLink="1117:WDXT002AI355.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd590" hollysys:varContent="590m位置" hollysys:varLink="1117:WDXT002AI590.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd70" hollysys:varContent="70m位置" hollysys:varLink="1117:WDXT002AI070.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd130" hollysys:varContent="130m位置" hollysys:varLink="1117:WDXT002AI130.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd360" hollysys:varContent="360m位置" hollysys:varLink="1117:WDXT002AI360.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd565" hollysys:varContent="565m位置" hollysys:varLink="1117:WDXT002AI565.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd45" hollysys:varContent="45m位置" hollysys:varLink="1117:WDXT002AI045.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd105" hollysys:varContent="105m位置" hollysys:varLink="1117:WDXT002AI105.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd335" hollysys:varContent="335m位置" hollysys:varLink="1117:WDXT002AI335.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd570" hollysys:varContent="570m位置" hollysys:varLink="1117:WDXT002AI570.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd50" hollysys:varContent="50m位置" hollysys:varLink="1117:WDXT002AI050.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd110" hollysys:varContent="110m位置" hollysys:varLink="1117:WDXT002AI110.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd340" hollysys:varContent="340m位置" hollysys:varLink="1117:WDXT002AI340.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd545" hollysys:varContent="545m位置" hollysys:varLink="1117:WDXT002AI545.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd25" hollysys:varContent="25m位置" hollysys:varLink="1117:WDXT002AI025.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd315" hollysys:varContent="315m位置" hollysys:varLink="1117:WDXT002AI315.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd550" hollysys:varContent="550m位置" hollysys:varLink="1117:WDXT002AI550.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd30" hollysys:varContent="30m位置" hollysys:varLink="1117:WDXT002AI030.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd320" hollysys:varContent="320m位置" hollysys:varLink="1117:WDXT002AI320.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd525" hollysys:varContent="525m位置" hollysys:varLink="1117:WDXT002AI525.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd530" hollysys:varContent="530m位置" hollysys:varLink="1117:WDXT002AI530.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd10" hollysys:varContent="10m位置" hollysys:varLink="1117:WDXT002AI010.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd300" hollysys:varContent="300m位置" hollysys:varLink="1117:WDXT002AI300.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd505" hollysys:varContent="505m位置" hollysys:varLink="1117:WDXT002AI505.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd510" hollysys:varContent="510m位置" hollysys:varLink="1117:WDXT002AI510.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd295" hollysys:varContent="295m位置" hollysys:varLink="1117:WDXT002AI295.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd700" hollysys:varContent="700m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd275" hollysys:varContent="275m位置" hollysys:varLink="1117:WDXT002AI275.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd5" hollysys:varContent="5m位置" hollysys:varLink="1117:WDXT002AI005.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd280" hollysys:varContent="280m位置" hollysys:varLink="1117:WDXT002AI280.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd255" hollysys:varContent="255m位置" hollysys:varLink="1117:WDXT002AI255.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd485" hollysys:varContent="485m位置" hollysys:varLink="1117:WDXT002AI485.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd260" hollysys:varContent="260m位置" hollysys:varLink="1117:WDXT002AI260.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd490" hollysys:varContent="490m位置" hollysys:varLink="1117:WDXT002AI490.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd695" hollysys:varContent="695m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd235" hollysys:varContent="235m位置" hollysys:varLink="1117:WDXT002AI235.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd465" hollysys:varContent="465m位置" hollysys:varLink="1117:WDXT002AI465.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd240" hollysys:varContent="240m位置" hollysys:varLink="1117:WDXT002AI240.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd470" hollysys:varContent="470m位置" hollysys:varLink="1117:WDXT002AI470.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd675" hollysys:varContent="675m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd215" hollysys:varContent="215m位置" hollysys:varLink="1117:WDXT002AI215.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd445" hollysys:varContent="445m位置" hollysys:varLink="1117:WDXT002AI445.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd680" hollysys:varContent="680m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd220" hollysys:varContent="220m位置" hollysys:varLink="1117:WDXT002AI220.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd450" hollysys:varContent="450m位置" hollysys:varLink="1117:WDXT002AI450.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd655" hollysys:varContent="655m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd425" hollysys:varContent="425m位置" hollysys:varLink="1117:WDXT002AI425.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd200" hollysys:varContent="200m位置" hollysys:varLink="1117:WDXT002AI200.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd430" hollysys:varContent="430m位置" hollysys:varLink="1117:WDXT002AI430.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd660" hollysys:varContent="660m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd405" hollysys:varContent="405m位置" hollysys:varLink="1117:WDXT002AI405.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd635" hollysys:varContent="635m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd410" hollysys:varContent="410m位置" hollysys:varLink="1117:WDXT002AI410.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd640" hollysys:varContent="640m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd615" hollysys:varContent="615m位置" hollysys:varLink="1117:WDXT002AI615.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd620" hollysys:varContent="620m位置" hollysys:varLink="1117:WDXT002AI620.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd195" hollysys:varContent="195m位置" hollysys:varLink="1117:WDXT002AI195.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd600" hollysys:varContent="600m位置" hollysys:varLink="1117:WDXT002AI600.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd175" hollysys:varContent="175m位置" hollysys:varLink="1117:WDXT002AI175.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd180" hollysys:varContent="180m位置" hollysys:varLink="1117:WDXT002AI180.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd155" hollysys:varContent="155m位置" hollysys:varLink="1117:WDXT002AI155.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd385" hollysys:varContent="385m位置" hollysys:varLink="1117:WDXT002AI385.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd95" hollysys:varContent="95m位置" hollysys:varLink="1117:WDXT002AI095.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd160" hollysys:varContent="160m位置" hollysys:varLink="1117:WDXT002AI160.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd390" hollysys:varContent="390m位置" hollysys:varLink="1117:WDXT002AI390.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd365" hollysys:varContent="365m位置" hollysys:varLink="1117:WDXT002AI365.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd595" hollysys:varContent="595m位置" hollysys:varLink="1117:WDXT002AI595.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd75" hollysys:varContent="75m位置" hollysys:varLink="1117:WDXT002AI075.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd135" hollysys:varContent="135m位置" hollysys:varLink="1117:WDXT002AI135.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd370" hollysys:varContent="370m位置" hollysys:varLink="1117:WDXT002AI370.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd80" hollysys:varContent="80m位置" hollysys:varLink="1117:WDXT002AI080.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd140" hollysys:varContent="140m位置" hollysys:varLink="1117:WDXT002AI140.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd345" hollysys:varContent="345m位置" hollysys:varLink="1117:WDXT002AI345.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd575" hollysys:varContent="575m位置" hollysys:varLink="1117:WDXT002AI575.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd55" hollysys:varContent="55m位置" hollysys:varLink="1117:WDXT002AI055.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd115" hollysys:varContent="115m位置" hollysys:varLink="1117:WDXT002AI115.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd350" hollysys:varContent="350m位置" hollysys:varLink="1117:WDXT002AI350.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd580" hollysys:varContent="580m位置" hollysys:varLink="1117:WDXT002AI580.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd60" hollysys:varContent="60m位置" hollysys:varLink="1117:WDXT002AI060.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd120" hollysys:varContent="120m位置" hollysys:varLink="1117:WDXT002AI120.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd325" hollysys:varContent="325m位置" hollysys:varLink="1117:WDXT002AI325.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd555" hollysys:varContent="555m位置" hollysys:varLink="1117:WDXT002AI555.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd35" hollysys:varContent="35m位置" hollysys:varLink="1117:WDXT002AI035.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd330" hollysys:varContent="330m位置" hollysys:varLink="1117:WDXT002AI330.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd560" hollysys:varContent="560m位置" hollysys:varLink="1117:WDXT002AI560.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd40" hollysys:varContent="40m位置" hollysys:varLink="1117:WDXT002AI040.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd100" hollysys:varContent="100m位置" hollysys:varLink="1117:WDXT002AI100.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd305" hollysys:varContent="305m位置" hollysys:varLink="1117:WDXT002AI305.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd535" hollysys:varContent="535m位置" hollysys:varLink="1117:WDXT002AI535.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd15" hollysys:varContent="15m位置" hollysys:varLink="1117:WDXT002AI015.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd310" hollysys:varContent="310m位置" hollysys:varLink="1117:WDXT002AI310.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd540" hollysys:varContent="540m位置" hollysys:varLink="1117:WDXT002AI540.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd20" hollysys:varContent="20m位置" hollysys:varLink="1117:WDXT002AI020.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd515" hollysys:varContent="515m位置" hollysys:varLink="1117:WDXT002AI515.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd520" hollysys:varContent="520m位置" hollysys:varLink="1117:WDXT002AI520.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd500" hollysys:varContent="500m位置" hollysys:varLink="1117:WDXT002AI500.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd285" hollysys:varContent="285m位置" hollysys:varLink="1117:WDXT002AI285.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd290" hollysys:varContent="290m位置" hollysys:varLink="1117:WDXT002AI290.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd495" hollysys:varContent="495m位置" hollysys:varLink="1117:WDXT002AI495.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd265" hollysys:varContent="265m位置" hollysys:varLink="1117:WDXT002AI265.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd270" hollysys:varContent="270m位置" hollysys:varLink="1117:WDXT002AI270.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd475" hollysys:varContent="475m位置" hollysys:varLink="1117:WDXT002AI475.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd245" hollysys:varContent="245m位置" hollysys:varLink="1117:WDXT002AI245.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd480" hollysys:varContent="480m位置" hollysys:varLink="1117:WDXT002AI480.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd250" hollysys:varContent="250m位置" hollysys:varLink="1117:WDXT002AI250.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd455" hollysys:varContent="455m位置" hollysys:varLink="1117:WDXT002AI455.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd685" hollysys:varContent="685m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd225" hollysys:varContent="225m位置" hollysys:varLink="1117:WDXT002AI225.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd460" hollysys:varContent="460m位置" hollysys:varLink="1117:WDXT002AI460.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd690" hollysys:varContent="690m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd230" hollysys:varContent="230m位置" hollysys:varLink="1117:WDXT002AI230.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd435" hollysys:varContent="435m位置" hollysys:varLink="1117:WDXT002AI435.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd665" hollysys:varContent="665m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd205" hollysys:varContent="205m位置" hollysys:varLink="1117:WDXT002AI205.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd440" hollysys:varContent="440m位置" hollysys:varLink="1117:WDXT002AI440.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd670" hollysys:varContent="670m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd210" hollysys:varContent="210m位置" hollysys:varLink="1117:WDXT002AI210.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd415" hollysys:varContent="415m位置" hollysys:varLink="1117:WDXT002AI415.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd645" hollysys:varContent="645m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd420" hollysys:varContent="420m位置" hollysys:varLink="1117:WDXT002AI420.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd650" hollysys:varContent="650m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd625" hollysys:varContent="625m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd400" hollysys:varContent="400m位置" hollysys:varLink="1117:WDXT002AI400.value" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd630" hollysys:varContent="630m位置" hollysys:varLink="(null)" hollysys:varPid="0" hollysys:varType="2"/>
+    <hollysys:var hollysys:varName="wd605" hollysys:varContent="605m位置" hollysys:varLink="1117:WDXT002AI605.value" hollysys:varPid="0" hollysys:varType="2"/>
+  </hollysys:allVarAndPoint>
+  <g inkscape:label="Layer 0" inkscape:groupmode="layer" id="Layer" style="fill:#343a3d;">
+    <rect x="0" y="0" width="1452" height="873" style="fill:#343a3d; fill-opacity:1.0"/>
+    <text id="Text0001_1_ElId_0" x="431.0px" y="75.9px" width="555.00px" height="67.00px" transform="rotate(0.00 708.50 53.50)" style="fill:#ffffff;font-size:48px;font-family:微软雅黑;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:62px;hollysy-font-width:24px;">光纤分布式温度在线监测</text>
+    <g id="Composite0004_ElId_1" inkscape:groupmode="composite" x="23.0px" y="74.0px" width="1416.00px" height="770.00px" transform="rotate(0.00 731.00 459.00)">
+      <line id="Line0001_ElId_2" x1="81.000000" y1="109.000000" x2="81.000000" y2="769.000000" transform="rotate(0.00 81.00 439.00)" style="stroke:#ffffff; stroke-width:2.00"/>
+      <line id="Line0002_ElId_3" x1="80.000000" y1="769.000000" x2="1340.000000" y2="770.000000" transform="rotate(0.00 710.00 769.50)" style="stroke:#ffffff; stroke-width:2.00"/>
+      <line id="Line0003_ElId_4" x1="66.000000" y1="744.000000" x2="96.000000" y2="744.000000" transform="rotate(0.00 81.00 744.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_1_ElId_5" x1="66.000000" y1="694.000000" x2="96.000000" y2="694.000000" transform="rotate(0.00 81.00 694.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_2_ElId_6" x1="66.000000" y1="719.000000" x2="96.000000" y2="719.000000" transform="rotate(0.00 81.00 719.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_3_ElId_7" x1="66.000000" y1="669.000000" x2="96.000000" y2="669.000000" transform="rotate(0.00 81.00 669.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_4_ElId_8" x1="59.000000" y1="644.000000" x2="104.000000" y2="644.000000" transform="rotate(0.00 81.50 644.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_5_ElId_9" x1="66.000000" y1="619.000000" x2="96.000000" y2="619.000000" transform="rotate(0.00 81.00 619.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_6_ElId_10" x1="66.000000" y1="594.000000" x2="96.000000" y2="594.000000" transform="rotate(0.00 81.00 594.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_7_ElId_11" x1="66.000000" y1="569.000000" x2="96.000000" y2="569.000000" transform="rotate(0.00 81.00 569.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_8_ElId_12" x1="66.000000" y1="544.000000" x2="96.000000" y2="544.000000" transform="rotate(0.00 81.00 544.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_9_ElId_13" x1="59.000000" y1="519.000000" x2="104.000000" y2="519.000000" transform="rotate(0.00 81.50 519.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_10_ElId_14" x1="66.000000" y1="494.000000" x2="96.000000" y2="494.000000" transform="rotate(0.00 81.00 494.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_11_ElId_15" x1="66.000000" y1="469.000000" x2="96.000000" y2="469.000000" transform="rotate(0.00 81.00 469.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_12_ElId_16" x1="66.000000" y1="444.000000" x2="96.000000" y2="444.000000" transform="rotate(0.00 81.00 444.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_13_ElId_17" x1="66.000000" y1="419.000000" x2="96.000000" y2="419.000000" transform="rotate(0.00 81.00 419.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_14_ElId_18" x1="59.000000" y1="394.000000" x2="104.000000" y2="394.000000" transform="rotate(0.00 81.50 394.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_15_ElId_19" x1="66.000000" y1="369.000000" x2="96.000000" y2="369.000000" transform="rotate(0.00 81.00 369.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_16_ElId_20" x1="66.000000" y1="344.000000" x2="96.000000" y2="344.000000" transform="rotate(0.00 81.00 344.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_17_ElId_21" x1="66.000000" y1="319.000000" x2="96.000000" y2="319.000000" transform="rotate(0.00 81.00 319.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_18_ElId_22" x1="66.000000" y1="294.000000" x2="96.000000" y2="294.000000" transform="rotate(0.00 81.00 294.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_19_ElId_23" x1="59.000000" y1="269.000000" x2="104.000000" y2="269.000000" transform="rotate(0.00 81.50 269.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_20_ElId_24" x1="66.000000" y1="244.000000" x2="96.000000" y2="244.000000" transform="rotate(0.00 81.00 244.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_21_ElId_25" x1="66.000000" y1="219.000000" x2="96.000000" y2="219.000000" transform="rotate(0.00 81.00 219.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_22_ElId_26" x1="66.000000" y1="194.000000" x2="96.000000" y2="194.000000" transform="rotate(0.00 81.00 194.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_23_ElId_27" x1="66.000000" y1="169.000000" x2="96.000000" y2="169.000000" transform="rotate(0.00 81.00 169.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0003_24_ElId_28" x1="59.000000" y1="144.000000" x2="104.000000" y2="144.000000" transform="rotate(0.00 81.50 144.00)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_ElId_29" x1="114.000000" y1="754.000000" x2="115.000000" y2="785.000000" transform="rotate(0.00 114.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_1_ElId_30" x1="150.000000" y1="754.000000" x2="150.000000" y2="785.000000" transform="rotate(0.00 150.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_2_ElId_31" x1="184.000000" y1="754.000000" x2="185.000000" y2="785.000000" transform="rotate(0.00 184.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_3_ElId_32" x1="220.000000" y1="754.000000" x2="220.000000" y2="785.000000" transform="rotate(0.00 220.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_4_ElId_33" x1="255.000000" y1="747.000000" x2="255.000000" y2="792.000000" transform="rotate(0.00 255.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_5_ElId_34" x1="289.000000" y1="754.000000" x2="290.000000" y2="785.000000" transform="rotate(0.00 289.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_6_ElId_35" x1="324.000000" y1="754.000000" x2="325.000000" y2="785.000000" transform="rotate(0.00 324.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_7_ElId_36" x1="360.000000" y1="754.000000" x2="360.000000" y2="785.000000" transform="rotate(0.00 360.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_8_ElId_37" x1="395.000000" y1="754.000000" x2="395.000000" y2="785.000000" transform="rotate(0.00 395.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_9_ElId_38" x1="430.000000" y1="747.000000" x2="430.000000" y2="792.000000" transform="rotate(0.00 430.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_10_ElId_39" x1="465.000000" y1="754.000000" x2="465.000000" y2="785.000000" transform="rotate(0.00 465.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_11_ElId_40" x1="499.000000" y1="754.000000" x2="500.000000" y2="785.000000" transform="rotate(0.00 499.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_12_ElId_41" x1="534.000000" y1="754.000000" x2="535.000000" y2="785.000000" transform="rotate(0.00 534.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_13_ElId_42" x1="569.000000" y1="754.000000" x2="570.000000" y2="785.000000" transform="rotate(0.00 569.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_14_ElId_43" x1="604.000000" y1="747.000000" x2="605.000000" y2="792.000000" transform="rotate(0.00 604.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_15_ElId_44" x1="640.000000" y1="754.000000" x2="640.000000" y2="785.000000" transform="rotate(0.00 640.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_16_ElId_45" x1="675.000000" y1="754.000000" x2="675.000000" y2="785.000000" transform="rotate(0.00 675.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_17_ElId_46" x1="710.000000" y1="754.000000" x2="710.000000" y2="785.000000" transform="rotate(0.00 710.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_18_ElId_47" x1="745.000000" y1="754.000000" x2="745.000000" y2="785.000000" transform="rotate(0.00 745.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_19_ElId_48" x1="780.000000" y1="747.000000" x2="780.000000" y2="792.000000" transform="rotate(0.00 780.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_20_ElId_49" x1="815.000000" y1="754.000000" x2="815.000000" y2="785.000000" transform="rotate(0.00 815.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_21_ElId_50" x1="850.000000" y1="754.000000" x2="850.000000" y2="785.000000" transform="rotate(0.00 850.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_22_ElId_51" x1="885.000000" y1="754.000000" x2="885.000000" y2="785.000000" transform="rotate(0.00 885.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_23_ElId_52" x1="919.000000" y1="754.000000" x2="920.000000" y2="785.000000" transform="rotate(0.00 919.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_24_ElId_53" x1="954.000000" y1="747.000000" x2="955.000000" y2="792.000000" transform="rotate(0.00 954.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_25_ElId_54" x1="989.000000" y1="754.000000" x2="990.000000" y2="785.000000" transform="rotate(0.00 989.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_26_ElId_55" x1="1024.000000" y1="754.000000" x2="1025.000000" y2="785.000000" transform="rotate(0.00 1024.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_27_ElId_56" x1="1059.000000" y1="754.000000" x2="1060.000000" y2="785.000000" transform="rotate(0.00 1059.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_28_ElId_57" x1="1094.000000" y1="754.000000" x2="1095.000000" y2="785.000000" transform="rotate(0.00 1094.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_29_ElId_58" x1="1129.000000" y1="747.000000" x2="1130.000000" y2="792.000000" transform="rotate(0.00 1129.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_30_ElId_59" x1="1164.000000" y1="754.000000" x2="1165.000000" y2="785.000000" transform="rotate(0.00 1164.50 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_31_ElId_60" x1="1200.000000" y1="754.000000" x2="1200.000000" y2="785.000000" transform="rotate(0.00 1200.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_32_ElId_61" x1="1235.000000" y1="754.000000" x2="1235.000000" y2="785.000000" transform="rotate(0.00 1235.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_33_ElId_62" x1="1270.000000" y1="754.000000" x2="1270.000000" y2="785.000000" transform="rotate(0.00 1270.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <line id="Line0004_34_ElId_63" x1="1305.000000" y1="747.000000" x2="1305.000000" y2="792.000000" transform="rotate(0.00 1305.00 769.50)" style="stroke:#ffffff; stroke-width:1.00"/>
+      <g id="Composite0001_ElId_64" inkscape:groupmode="composite" x="23.0px" y="129.0px" width="49.00px" height="540.00px" transform="rotate(0.00 47.50 399.00)">
+        <rect x="23.00" y="627.00" width="46.06" height="42.00" transform="rotate(0.00 0 1078444032)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_8_ElId_65" x="23.0px" y="653.5px" width="49.00px" height="42.00px" transform="rotate(0.00 47.50 648.00)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">10</text>
+        <rect x="23.00" y="502.00" width="46.06" height="42.00" transform="rotate(0.00 0 1078444032)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_9_ElId_66" x="23.0px" y="528.5px" width="49.00px" height="42.00px" transform="rotate(0.00 47.50 523.00)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">20</text>
+        <rect x="23.00" y="378.00" width="46.06" height="42.00" transform="rotate(0.00 0 1078444032)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_10_ElId_67" x="23.0px" y="404.5px" width="49.00px" height="42.00px" transform="rotate(0.00 47.50 399.00)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">30</text>
+        <rect x="23.00" y="254.00" width="46.06" height="42.00" transform="rotate(0.00 0 1078444032)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_11_ElId_68" x="23.0px" y="280.5px" width="49.00px" height="42.00px" transform="rotate(0.00 47.50 275.00)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">40</text>
+        <rect x="23.00" y="129.00" width="46.06" height="43.00" transform="rotate(0.00 0 1078444032)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_12_ElId_69" x="23.0px" y="155.5px" width="49.00px" height="43.00px" transform="rotate(0.00 47.50 150.50)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">50</text>
+      </g>
+      <g id="Composite0002_ElId_70" inkscape:groupmode="composite" x="231.0px" y="796.0px" width="1102.00px" height="48.00px" transform="rotate(0.00 782.00 820.00)">
+        <rect x="231.00" y="801.00" width="46.06" height="43.00" transform="rotate(0.00 0 1081077760)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_ElId_71" x="231.0px" y="827.5px" width="49.00px" height="43.00px" transform="rotate(0.00 255.50 822.50)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">100</text>
+        <rect x="407.00" y="796.00" width="45.12" height="43.00" transform="rotate(0.00 0 1081798656)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_2_ElId_72" x="407.0px" y="822.5px" width="48.00px" height="43.00px" transform="rotate(0.00 431.00 817.50)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">200</text>
+        <rect x="582.00" y="801.00" width="46.06" height="43.00" transform="rotate(0.00 0 1082323968)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_3_ElId_73" x="582.0px" y="827.5px" width="49.00px" height="43.00px" transform="rotate(0.00 606.50 822.50)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">300</text>
+        <rect x="758.00" y="801.00" width="45.12" height="43.00" transform="rotate(0.00 0 1082683392)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_4_ElId_74" x="758.0px" y="827.5px" width="48.00px" height="43.00px" transform="rotate(0.00 782.00 822.50)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">400</text>
+        <rect x="933.00" y="801.00" width="46.06" height="43.00" transform="rotate(0.00 0 1083042816)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_5_ElId_75" x="933.0px" y="827.5px" width="49.00px" height="43.00px" transform="rotate(0.00 957.50 822.50)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">500</text>
+        <rect x="1109.00" y="801.00" width="45.12" height="43.00" transform="rotate(0.00 0 1083290624)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_6_ElId_76" x="1109.0px" y="827.5px" width="48.00px" height="43.00px" transform="rotate(0.00 1133.00 822.50)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">600</text>
+        <rect x="1284.00" y="801.00" width="46.06" height="43.00" transform="rotate(0.00 0 1083470336)" style="fill:; fill-opacity:0.0"/>
+        <text id="Text0001_7_ElId_77" x="1284.0px" y="827.5px" width="49.00px" height="43.00px" transform="rotate(0.00 1308.50 822.50)" style="fill:#ffffff;font-size:26px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:32px;hollysy-font-width:17px;">700</text>
+      </g>
+      <rect x="38.00" y="75.00" width="110.92" height="40.00" transform="rotate(0.00 0 1079525376)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0002_ElId_78" x="38.0px" y="97.8px" width="118.00px" height="40.00px" transform="rotate(0.00 97.00 95.00)" style="fill:#ffffff;font-size:21px;font-family:微软雅黑;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:29px;hollysy-font-width:10px;">摄氏度(℃)</text>
+      <rect x="1352.00" y="754.00" width="80.84" height="41.00" transform="rotate(0.00 0 1083558912)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0002_1_ElId_79" x="1352.0px" y="776.8px" width="86.00px" height="41.00px" transform="rotate(0.00 1395.00 774.50)" style="fill:#ffffff;font-size:21px;font-family:微软雅黑;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:29px;hollysy-font-width:10px;">位置(m)</text>
+      <g id="Composite0003_ElId_80" inkscape:groupmode="composite" x="71.0px" y="110.0px" width="21.00px" height="12.00px" transform="rotate(0.00 81.50 116.00)">
+        <line id="Line0005_ElId_81" x1="81.000000" y1="111.000000" x2="71.000000" y2="122.000000" transform="rotate(0.00 76.00 116.50)" style="stroke:#ffffff; stroke-width:3.00"/>
+        <line id="Line0005_1_ElId_82" x1="80.000000" y1="111.000000" x2="92.000000" y2="122.000000" transform="rotate(0.00 86.00 116.50)" style="stroke:#ffffff; stroke-width:3.00"/>
+      </g>
+      <g id="Composite0003_1_ElId_83" inkscape:groupmode="composite" x="1327.0px" y="764.0px" width="21.00px" height="12.00px" transform="rotate(90.00 1337.50 770.00)">
+        <line id="Line0005_ElId_84" x1="1337.000000" y1="765.000000" x2="1327.000000" y2="776.000000" transform="rotate(0.00 1332.00 770.50)" style="stroke:#ffffff; stroke-width:3.00"/>
+        <line id="Line0005_1_ElId_85" x1="1336.000000" y1="765.000000" x2="1348.000000" y2="776.000000" transform="rotate(0.00 1342.00 770.50)" style="stroke:#ffffff; stroke-width:3.00"/>
+      </g>
+      <rect x="104.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1079828480)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_ElId_86" x="104.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 115.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">20</text>
+      <rect x="139.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1080217600)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_1_ElId_87" x="139.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 150.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">40</text>
+      <rect x="173.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1080496128)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_2_ElId_88" x="173.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 184.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">60</text>
+      <rect x="207.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1080774656)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_3_ElId_89" x="207.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 218.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">80</text>
+      <rect x="273.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1081198592)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_4_ElId_90" x="273.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 284.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">120</text>
+      <rect x="312.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1081358336)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_5_ElId_91" x="312.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 323.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">140</text>
+      <rect x="347.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1081501696)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_6_ElId_92" x="347.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 358.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">160</text>
+      <rect x="381.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1081640960)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_7_ElId_93" x="381.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 392.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">180</text>
+      <rect x="451.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1081927680)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_8_ElId_94" x="451.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 462.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">220</text>
+      <rect x="483.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1082058752)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_9_ElId_95" x="483.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 494.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">240</text>
+      <rect x="523.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1082176512)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_10_ElId_96" x="523.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 534.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">260</text>
+      <rect x="558.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1082248192)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_11_ElId_97" x="558.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 569.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">280</text>
+      <rect x="628.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1082391552)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_12_ElId_98" x="628.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 639.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">320</text>
+      <rect x="660.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1082457088)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_13_ElId_99" x="660.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 671.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">340</text>
+      <rect x="696.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1082530816)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_14_ElId_100" x="696.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 707.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">360</text>
+      <rect x="729.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1082598400)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_15_ElId_101" x="729.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 740.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">380</text>
+      <rect x="802.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1082747904)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_16_ElId_102" x="802.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 813.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">420</text>
+      <rect x="836.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1082817536)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_17_ElId_103" x="836.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 847.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">440</text>
+      <rect x="868.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1082883072)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_18_ElId_104" x="868.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 879.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">360</text>
+      <rect x="905.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1082958848)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_19_ElId_105" x="905.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 916.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">380</text>
+      <rect x="976.00" y="787.00" width="20.68" height="23.00" transform="rotate(0.00 0 1083103232)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_20_ElId_106" x="976.0px" y="802.2px" width="22.00px" height="23.00px" transform="rotate(0.00 987.00 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">520</text>
+      <rect x="1009.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1083171840)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_21_ElId_107" x="1009.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 1020.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">540</text>
+      <rect x="1043.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1083210240)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_22_ElId_108" x="1043.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 1054.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">560</text>
+      <rect x="1081.00" y="787.00" width="20.68" height="23.00" transform="rotate(0.00 0 1083248640)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_23_ElId_109" x="1081.0px" y="802.2px" width="22.00px" height="23.00px" transform="rotate(0.00 1092.00 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">580</text>
+      <rect x="1148.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1083317760)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_24_ElId_110" x="1148.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 1159.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">620</text>
+      <rect x="1185.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1083355648)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_25_ElId_111" x="1185.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 1196.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">640</text>
+      <rect x="1222.00" y="787.00" width="20.68" height="23.00" transform="rotate(0.00 0 1083393024)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_26_ElId_112" x="1222.0px" y="802.2px" width="22.00px" height="23.00px" transform="rotate(0.00 1233.00 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">660</text>
+      <rect x="1256.00" y="787.00" width="21.62" height="23.00" transform="rotate(0.00 0 1083428352)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_27_ElId_113" x="1256.0px" y="802.2px" width="23.00px" height="23.00px" transform="rotate(0.00 1267.50 798.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">680</text>
+      <rect x="50.00" y="732.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078886400)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_28_ElId_114" x="50.0px" y="747.2px" width="22.00px" height="24.00px" transform="rotate(0.00 61.00 744.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">2</text>
+      <rect x="50.00" y="708.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078886400)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_29_ElId_115" x="50.0px" y="723.2px" width="22.00px" height="24.00px" transform="rotate(0.00 61.00 720.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">4</text>
+      <rect x="50.00" y="685.00" width="20.68" height="23.00" transform="rotate(0.00 0 1078886400)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_30_ElId_116" x="50.0px" y="700.2px" width="22.00px" height="23.00px" transform="rotate(0.00 61.00 696.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">6</text>
+      <rect x="50.00" y="658.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078886400)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_31_ElId_117" x="50.0px" y="673.2px" width="22.00px" height="24.00px" transform="rotate(0.00 61.00 670.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">8</text>
+      <rect x="41.00" y="607.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_32_ElId_118" x="41.0px" y="622.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 619.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">12</text>
+      <rect x="41.00" y="582.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_33_ElId_119" x="41.0px" y="597.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 594.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">14</text>
+      <rect x="41.00" y="558.00" width="20.68" height="23.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_34_ElId_120" x="41.0px" y="573.2px" width="22.00px" height="23.00px" transform="rotate(0.00 52.00 569.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">16</text>
+      <rect x="41.00" y="535.00" width="20.68" height="23.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_35_ElId_121" x="41.0px" y="550.2px" width="22.00px" height="23.00px" transform="rotate(0.00 52.00 546.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">18</text>
+      <rect x="41.00" y="484.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_36_ElId_122" x="41.0px" y="499.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 496.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">22</text>
+      <rect x="41.00" y="459.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_37_ElId_123" x="41.0px" y="474.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 471.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">24</text>
+      <rect x="41.00" y="434.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_38_ElId_124" x="41.0px" y="449.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 446.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">26</text>
+      <rect x="41.00" y="408.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_39_ElId_125" x="41.0px" y="423.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 420.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">28</text>
+      <rect x="41.00" y="360.00" width="20.68" height="23.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_40_ElId_126" x="41.0px" y="375.2px" width="22.00px" height="23.00px" transform="rotate(0.00 52.00 371.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">32</text>
+      <rect x="41.00" y="334.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_41_ElId_127" x="41.0px" y="349.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 346.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">34</text>
+      <rect x="41.00" y="309.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_42_ElId_128" x="41.0px" y="324.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 321.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">36</text>
+      <rect x="41.00" y="284.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_43_ElId_129" x="41.0px" y="299.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 296.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">38</text>
+      <rect x="41.00" y="234.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_44_ElId_130" x="41.0px" y="249.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 246.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">42</text>
+      <rect x="41.00" y="209.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_45_ElId_131" x="41.0px" y="224.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 221.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">44</text>
+      <rect x="41.00" y="184.00" width="20.68" height="24.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_46_ElId_132" x="41.0px" y="199.2px" width="22.00px" height="24.00px" transform="rotate(0.00 52.00 196.00)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">46</text>
+      <rect x="41.00" y="159.00" width="20.68" height="23.00" transform="rotate(0.00 0 1078591488)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0003_47_ElId_133" x="41.0px" y="174.2px" width="22.00px" height="23.00px" transform="rotate(0.00 52.00 170.50)" style="fill:#ffffff;font-size:16px;font-family:Calibri;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:20px;hollysy-font-width:9px;">48</text>
+    </g>
+    <g id="Composite0006_ElId_134" inkscape:groupmode="composite" x="1190.0px" y="62.0px" width="239.00px" height="128.00px" transform="rotate(0.00 1309.50 126.00)">
+      <rect x="1190.00" y="62.00" width="129.72" height="45.00" transform="rotate(0.00 0 1083419648)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0004_ElId_135" x="1190.0px" y="90.9px" width="138.00px" height="45.00px" transform="rotate(0.00 1259.00 84.50)" style="fill:#ffffff;font-size:26px;font-family:微软雅黑;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:35px;hollysy-font-width:13px;">DTS通道2</text>
+      <rect x="1249.00" y="108.00" width="169.20" height="39.00" transform="rotate(0.00 0 1083501568)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0004_1_ElId_136" x="1249.0px" y="136.9px" width="180.00px" height="39.00px" transform="rotate(0.00 1339.00 127.50)" style="fill:#ffffff;font-size:26px;font-family:微软雅黑;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:35px;hollysy-font-width:13px;">7001输煤皮带</text>
+      <rect x="1249.00" y="151.00" width="169.20" height="39.00" transform="rotate(0.00 0 1083501568)" style="fill:; fill-opacity:0.0"/>
+      <text id="Text0004_1_1_ElId_137" x="1249.0px" y="179.9px" width="180.00px" height="39.00px" transform="rotate(0.00 1339.00 170.50)" style="fill:#ffffff;font-size:26px;font-family:微软雅黑;glyph-orientation-horizontal:0;font-style:normal ;font-weight:normal;text-decoratrion:;font-stretch:normal;text-anchor:start;filter:;hollysys-font-size:35px;hollysy-font-width:13px;">7002输煤皮带</text>
+      <line id="Line0006_ElId_138" x1="1200.000000" y1="124.000000" x2="1250.000000" y2="125.000000" transform="rotate(0.00 1225.00 124.50)" style="stroke:#ffffff; stroke-width:3.00"/>
+      <line id="Line0006_1_ElId_139" x1="1200.000000" y1="168.000000" x2="1250.000000" y2="168.000000" transform="rotate(0.00 1225.00 168.00)" style="stroke:#ffffff; stroke-width:3.00"/>
+    </g>
+  </g>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="未命名0" style="fill:#343a3d;">
+    <rect id="wd45_ElId_140" x="150.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 154.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd50_ElId_141" x="159.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 163.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd55_ElId_142" x="168.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 172.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd60_ElId_143" x="177.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 181.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <g id="Composite0005_ElId_144" inkscape:groupmode="composite" x="114.0px" y="139.0px" width="36.00px" height="631.00px" transform="rotate(0.00 132.00 454.50)">
+      <rect id="wd25_ElId_145" x="114.00" y="139.00" width="10.00" height="631.00" transform="rotate(0.00 119.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+      <rect id="wd30_ElId_146" x="123.00" y="139.00" width="10.00" height="631.00" transform="rotate(0.00 128.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+      <rect id="wd35_ElId_147" x="133.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 137.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+      <rect id="wd40_ElId_148" x="141.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 145.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    </g>
+    <rect id="wd65_ElId_149" x="185.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 189.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd70_ElId_150" x="194.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 198.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd75_ElId_151" x="203.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 207.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd80_ElId_152" x="212.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 216.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd85_ElId_153" x="220.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 224.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd90_ElId_154" x="229.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 233.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd95_ElId_155" x="238.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 242.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd100_ElId_156" x="247.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 251.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd105_ElId_157" x="254.00" y="139.00" width="10.00" height="631.00" transform="rotate(0.00 259.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd110_ElId_158" x="264.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 268.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd115_ElId_159" x="273.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 277.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd120_ElId_160" x="282.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 286.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd125_ElId_161" x="289.00" y="139.00" width="10.00" height="631.00" transform="rotate(0.00 294.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd130_ElId_162" x="299.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 303.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd135_ElId_163" x="308.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 312.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd140_ElId_164" x="317.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 321.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd145_ElId_165" x="325.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 329.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd150_ElId_166" x="334.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 338.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd155_ElId_167" x="343.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 347.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd160_ElId_168" x="352.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 356.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd165_ElId_169" x="359.00" y="139.00" width="10.00" height="631.00" transform="rotate(0.00 364.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd170_ElId_170" x="369.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 373.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd175_ElId_171" x="378.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 382.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd180_ElId_172" x="387.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 391.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd185_ElId_173" x="395.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 399.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd190_ElId_174" x="404.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 408.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd195_ElId_175" x="413.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 417.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd200_ElId_176" x="422.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 426.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd205_ElId_177" x="430.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 434.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd210_ElId_178" x="439.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 443.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd215_ElId_179" x="448.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 452.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd220_ElId_180" x="457.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 461.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd225_ElId_181" x="465.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 469.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd230_ElId_182" x="474.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 478.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd235_ElId_183" x="483.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 487.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd240_ElId_184" x="492.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 496.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd245_ElId_185" x="500.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 504.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd250_ElId_186" x="509.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 513.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd255_ElId_187" x="518.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 522.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd260_ElId_188" x="527.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 531.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd265_ElId_189" x="535.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 539.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd270_ElId_190" x="544.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 548.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd275_ElId_191" x="553.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 557.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd280_ElId_192" x="562.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 566.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd285_ElId_193" x="570.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 574.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd290_ElId_194" x="579.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 583.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd295_ElId_195" x="588.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 592.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd300_ElId_196" x="597.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 601.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd305_ElId_197" x="605.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 609.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd310_ElId_198" x="614.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 618.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd315_ElId_199" x="623.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 627.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd320_ElId_200" x="632.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 636.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd325_ElId_201" x="640.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 644.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd330_ElId_202" x="649.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 653.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd335_ElId_203" x="658.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 662.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd340_ElId_204" x="667.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 671.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd345_ElId_205" x="675.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 679.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd350_ElId_206" x="684.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 688.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd355_ElId_207" x="693.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 697.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd360_ElId_208" x="702.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 706.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd365_ElId_209" x="710.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 714.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd370_ElId_210" x="719.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 723.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd375_ElId_211" x="728.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 732.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd380_ElId_212" x="737.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 741.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd385_ElId_213" x="745.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 749.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd390_ElId_214" x="754.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 758.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd395_ElId_215" x="763.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 767.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd20_ElId_216" x="772.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 776.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd405_ElId_217" x="780.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 784.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd410_ElId_218" x="789.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 793.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd415_ElId_219" x="798.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 802.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd420_ElId_220" x="807.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 811.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd425_ElId_221" x="815.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 819.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd430_ElId_222" x="824.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 828.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd435_ElId_223" x="833.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 837.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="Rwd440_ElId_224" x="842.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 846.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd445_ElId_225" x="850.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 854.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd450_ElId_226" x="859.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 863.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd455_ElId_227" x="868.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 872.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd460_ElId_228" x="877.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 881.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd465_ElId_229" x="885.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 889.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd470_ElId_230" x="894.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 898.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd475_ElId_231" x="903.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 907.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd480_ElId_232" x="912.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 916.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd485_ElId_233" x="920.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 924.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd490_ElId_234" x="929.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 933.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd495_ElId_235" x="938.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 942.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd500_ElId_236" x="947.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 951.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd505_ElId_237" x="955.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 959.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd510_ElId_238" x="964.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 968.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd515_ElId_239" x="973.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 977.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd520_ElId_240" x="982.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 986.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd525_ElId_241" x="990.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 994.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd530_ElId_242" x="999.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1003.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd535_ElId_243" x="1008.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1012.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd540_ElId_244" x="1017.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 1021.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd545_ElId_245" x="1025.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1029.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd550_ElId_246" x="1034.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1038.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd555_ElId_247" x="1043.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1047.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="Rwd560_ElId_248" x="1052.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 1056.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd565_ElId_249" x="1060.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1064.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd570_ElId_250" x="1069.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1073.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd575_ElId_251" x="1078.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1082.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd580_ElId_252" x="1087.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 1091.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd585_ElId_253" x="1095.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1099.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd590_ElId_254" x="1104.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1108.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd595_ElId_255" x="1113.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1117.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd600_ElId_256" x="1122.00" y="139.00" width="8.00" height="631.00" transform="rotate(0.00 1126.00 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd605_ElId_257" x="1130.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1134.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd610_ElId_258" x="1139.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1143.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd615_ElId_259" x="1148.00" y="139.00" width="9.00" height="631.00" transform="rotate(0.00 1152.50 454.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+    <rect id="wd620_ElId_260" x="1158.00" y="138.00" width="8.00" height="631.00" transform="rotate(0.00 1162.00 453.50)" style="fill:none;stroke:#343a3d; stroke-width:1.00"/>
+  </g>
+  <g inkscape:label="Layer 2" inkscape:groupmode="layer" id="未命名1" style="fill:#ffffff;">
+    <g id="Composite0007_ElId_261" inkscape:groupmode="composite" x="82.0px" y="144.0px" width="1223.00px" height="500.00px" transform="rotate(0.00 693.50 394.00)">
+      <line id="Line0007_1_1_1_1_ElId_262" x1="82.000000" y1="145.000000" x2="1305.000000" y2="145.000000" transform="rotate(0.00 693.50 145.00)" style="stroke:#ffffff; stroke-width:1.00; stroke-dasharray:3,3"/>
+      <line id="Line0007_1_1_1_ElId_263" x1="82.000000" y1="269.000000" x2="1305.000000" y2="270.000000" transform="rotate(0.00 693.50 269.50)" style="stroke:#ffffff; stroke-width:1.00; stroke-dasharray:3,3"/>
+      <line id="Line0007_1_1_ElId_264" x1="82.000000" y1="394.000000" x2="1305.000000" y2="395.000000" transform="rotate(0.00 693.50 394.50)" style="stroke:#ffffff; stroke-width:1.00; stroke-dasharray:3,3"/>
+      <line id="Line0007_1_ElId_265" x1="82.000000" y1="520.000000" x2="1305.000000" y2="521.000000" transform="rotate(0.00 693.50 520.50)" style="stroke:#ffffff; stroke-width:1.00; stroke-dasharray:3,3"/>
+      <line id="Line0007_ElId_266" x1="82.000000" y1="644.000000" x2="1305.000000" y2="644.000000" transform="rotate(0.00 693.50 644.00)" style="stroke:#ffffff; stroke-width:1.00; stroke-dasharray:3,3"/>
+    </g>
+  </g>
+  
+  <script type="text/javascript" xlink:href="../../common/animate.js"></script>
+  <script type="text/javascript" xlink:href="../../common/svgOperation.js"></script>
+  <script type="text/javascript"> <![CDATA[
+        //模拟图上元素变量值
+        var valueMap={};
+
+        var tempValue={};
+
+        function initValue(){
+			for(var i=0; i<allVarAndPoint.length; i++){
+				if(allVarAndPoint[i].varLink !=null) {
+					var num=(Math.random()*30).toFixed(0);
+					valueMap[allVarAndPoint[i].varLink]=num;
+				}
+			}
+		}
+        //更新值，使值在小范围内变动
+        function updateValue(domain){
+            for(var varName in valueMap){
+                var num=parseInt((Math.random()*domain).toFixed(0));
+                var rand=[0,0,0,0,0,0,1,1,1,1,1];
+                var index=(Math.random()*10).toFixed(0);
+                var parse=parseInt(valueMap[varName]);
+                var newValue;
+                if(rand[index]==0){
+                    newValue=parse+num;
+                }else{
+                    newValue=parse-num;
+                }
+                if( newValue<10) {
+                    newValue=newValue+num+2;
+                }
+                if(newValue>42){
+                    newValue=newValue-num-2;
+                }
+                valueMap[varName]=newValue;
+            }
+        }
+        window.onload=function(){
+            initSVG();
+            initValue();
+            setInterval(function(){
+                    updateValue(2);
+                },1000);
+            setInterval(function(){
+                    imaitateUpdate(valueMap);
+                },1000);
+        }
+        ]]>
+   </script>
+</svg>
